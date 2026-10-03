@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "spanish-renta-tutor",
+  "version": "0.1.0",
+  "description": "A document-driven Beckham Law tutor for verified Modelo 151 preparation and browser-assisted completion, without filing, signing, or payment."
+}

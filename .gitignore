@@ -1,0 +1,14 @@
+# Project planning
+/plan.md
+
+# Operating systems
+.DS_Store
+Thumbs.db
+
+# Editors and temporary files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.tmp
